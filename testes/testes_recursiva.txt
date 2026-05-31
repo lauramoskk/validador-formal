@@ -1,0 +1,13 @@
+a#a;True
+b#b;True
+ab#ab;True
+ba#ba;True
+aba#aba;True
+abb#abb;True
+
+a#b;False
+ab#ba;False
+aba#baa;False
+abb#ab;False
+aa#aaa;False
+ab#a;False
